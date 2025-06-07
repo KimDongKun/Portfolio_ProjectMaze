@@ -1,5 +1,5 @@
-# Portfolio_ProjectMaze 
-(개발 진행 중)
+# Portfolio_ProjectMaze[제목 미정] 
+- 현재 개발 진행중
 
 ![image](https://github.com/user-attachments/assets/74c7704f-848b-4a31-938c-5d5d7385e03d)
 
